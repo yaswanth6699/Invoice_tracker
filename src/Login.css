@@ -1,0 +1,17 @@
+.body{
+    background-image: url('https://images.wallpapersden.com/image/download/a-simple-gradient_a2duZ2iUmZqaraWkpJRmbmdlrWZlbWU.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    padding-bottom: 240px;
+}
+.google{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top:200px;
+    width: 100%;
+    height: 70vh;
+   
+}

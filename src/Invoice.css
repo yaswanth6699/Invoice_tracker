@@ -1,0 +1,28 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top:40px;
+   
+}
+.form__input > label{
+    
+        display: block;
+        float: left;
+        width : 120px;    
+      
+}
+.form__input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.form__input > label{
+    padding-right:30px;
+}
+.form__button{
+    background-color: lightblue !important;
+}
